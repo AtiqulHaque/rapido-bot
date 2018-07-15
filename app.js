@@ -1,7 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const request = require('request');
-const apiaiApp = require('apiai')("d26b7d3e5ad64e5aa4600bc26811fe8d");
+const apiaiApp = require('apiai')("enter your client key");
 const PORT = process.env.PORT || 5000;
 
 const app = express();
