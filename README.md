@@ -1,4 +1,4 @@
-# rapido-bot
+# Rapido-bot
 This is a very simple messaging bot server with help of Dialogflow Ai api.
 Any one can clone this repository  and try it.
 
